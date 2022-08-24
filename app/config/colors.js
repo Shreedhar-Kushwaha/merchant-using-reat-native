@@ -1,0 +1,20 @@
+export default  {
+    primary : "#fc5c65",
+    secondary :"#4ecdc4",
+    black : '#000',
+    white : '#fff',
+    medium : "#6e6969",
+    light : "#f8f4f4",
+    dark : "#0c0c0c",
+    danger : "#ff5252",
+
+    furniture : "#fc5c65",
+    car : "#fd9644",
+    camera : "#fed330",
+    game : "#26de81",
+    clothing : "#2bcb2a",
+    sports : "#45aaf2",
+    movie : "#4b7bec",
+    book : "#2bcb2a",
+    other : "#fed330",
+};
